@@ -1,2 +1,8 @@
 ffmpeg
 freeglut3-dev
+libxml2-dev
+libxslt1-dev
+libcairo2-dev
+libpango1.0-dev
+pkg-config
+python3-dev
